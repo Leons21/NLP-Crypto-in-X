@@ -1,1 +1,1 @@
-# NLP-Crypto-in-X
+This project focuses on analyzing positive and negative sentiments related to cryptocurrency on social media X, using machine learning techniques such as Random Forest, XGBoost, and Support Vector Machine. The results of this analysis provide deep insights into public perception of cryptocurrency trends.
